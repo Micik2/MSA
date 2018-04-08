@@ -1,0 +1,19 @@
+S¹ 3 rodzaje wsp. typu Kappa:
+- Scott'a
+- Cohen'a
+- Gwet'a AC1
+
+Musi byæ mo¿liwoœæ wybrania metody na stronie.
+Interesuje nas na razie tylko metoda Gweta AC1!
+
+//W raporcie:
+//- wspó³czynnik typu Gwet'a
+//- H-subject (czy ocenienie danej czêœci //przez operatora sprawia mu trudnoœci)
+//- E-subject (czy ocenienie danej czêœci //przez operatora to dla niego ³atwe //zadanie)
+//- zgodnoœæ wewnêtrzna
+
+Raport zawiera tylko poziom zgodnoœci!
+
+PYTANIA:
+Co to jest wartoœæ referencyjna?
+
